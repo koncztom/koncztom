@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @koncztom
+- 👀 I’m interested in Senior level Engineering
+- 🌱 I’m currently learning to run websites and databaseses on Linux
+- 💞️ I’m looking to collaborate on any type of development
+- 📫 How to reach me at www.koncztom.com
+
+<!---
+koncztom/koncztom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
