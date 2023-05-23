@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @koncztom
+- 👋 Hi, I’m @koncztom. I live at <a href="https://www.koncztom.com/">www.koncztom.com</a>
 - 👀 I’m interested in Senior level Engineering
 - 🌱 I’m currently learning to run websites and databaseses on Linux
-- 💞️ I’m looking to collaborate on any type of development
-- 📫 You can reach me at <a href="https://www.koncztom.com" target="blank">www.koncztom.com</a>
+- 📫 You can reach me at <a href="mailto:info@koncztom.com">info@koncztom.com</a>
+- Listen to American and Hungarian Rock&Roll Radio stations at <a href="https://www.rock.koncztom.com/">www.rock.koncztom.com</a>
 
 <!---
 koncztom/koncztom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
